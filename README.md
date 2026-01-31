@@ -1,5 +1,6 @@
 # Crop_Prediction
-🌾 Crop Prediction System
+
+
 📌 Overview
 
 The Crop Prediction System is a machine learning–based application that recommends the most suitable crop to grow based on environmental and soil conditions. This helps farmers and agricultural planners make data-driven decisions to improve crop yield and reduce risk.
@@ -35,6 +36,7 @@ The dataset contains historical agricultural data with environmental parameters.
 Each row represents conditions under which a particular crop grows best.
 
 Target column: Crop Name
+
 
 ⚙️ Workflow
 
